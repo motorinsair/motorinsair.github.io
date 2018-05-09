@@ -238,3 +238,55 @@ legend {
     from {bottom: 30px; opacity: 1;}
     to {bottom: 0; opacity: 0;}
 }
+
+@media (min-width: 320px) and (max-width: 479px) {
+
+  .E_learning_wrapper
+{
+  width: 100%
+
+}
+h1
+{
+  font-size: 22px;
+  }
+h3
+{
+  font-size: 16px;
+}
+label
+{
+  font-size: 1em;
+}
+.button
+{
+  font-size: 14px;
+  padding: 8px 14px;
+}
+}
+
+@media (min-width: 480px) and (max-width: 768px) {
+
+  .E_learning_wrapper
+{
+  width: 100%
+
+}
+h1
+{
+  font-size: 22px;
+  }
+h3
+{
+  font-size: 16px;
+}
+label
+{
+  font-size: 1em;
+}
+.button
+{
+  font-size: 14px;
+  padding: 8px 14px;
+}
+}
